@@ -2,7 +2,7 @@
 		/*
 		Plugin Name:Keyword Linker
 		Plugin URI: http://www.brandsms.ir
-		Version: v0.0.0.1
+		Version: v0.0.0.2
 		Author:<a href="http://www.brandsms.ir">M.Shahbazi</a>
 		Description:با این افزونه کلمات موردنظر شما به آدرس تعیین شده به صورت اتوماتیک لینک میشوند 
 	*/
